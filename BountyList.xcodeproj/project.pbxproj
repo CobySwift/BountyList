@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CB017620282CD4D40022D106 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB01761F282CD4D40022D106 /* DetailViewController.swift */; };
+		CB15AF1728323ABC0001BE93 /* BountyInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB15AF1628323ABC0001BE93 /* BountyInfo.swift */; };
 		CBE05C52282BF41100C2AE7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE05C51282BF41100C2AE7B /* AppDelegate.swift */; };
 		CBE05C54282BF41100C2AE7B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE05C53282BF41100C2AE7B /* SceneDelegate.swift */; };
 		CBE05C59282BF41100C2AE7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBE05C57282BF41100C2AE7B /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		CB01761F282CD4D40022D106 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		CB15AF1628323ABC0001BE93 /* BountyInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyInfo.swift; sourceTree = "<group>"; };
 		CBE05C4E282BF41100C2AE7B /* BountyList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BountyList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBE05C51282BF41100C2AE7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CBE05C53282BF41100C2AE7B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				CBE05C57282BF41100C2AE7B /* Main.storyboard */,
 				CBE05C65282BF51D00C2AE7B /* BountyViewController.swift */,
 				CB01761F282CD4D40022D106 /* DetailViewController.swift */,
+				CB15AF1628323ABC0001BE93 /* BountyInfo.swift */,
 				CBE05C5A282BF41200C2AE7B /* Assets.xcassets */,
 				CBE05C5C282BF41200C2AE7B /* LaunchScreen.storyboard */,
 				CBE05C5F282BF41200C2AE7B /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB15AF1728323ABC0001BE93 /* BountyInfo.swift in Sources */,
 				CBE05C52282BF41100C2AE7B /* AppDelegate.swift in Sources */,
 				CBE05C66282BF51D00C2AE7B /* BountyViewController.swift in Sources */,
 				CBE05C54282BF41100C2AE7B /* SceneDelegate.swift in Sources */,
